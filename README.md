@@ -194,7 +194,7 @@ However, community members can **open a thread to share opinions** about it. The
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/fAJLJ92fFdUy1y22m5QUdODrY1Lq6fWH6thHKgB5uM70zw" width="100%">
+    <img src="https://siasky.net/_ABHXTqmIf3qQIB2wIIVuelLDz2CGSAtUPWrMjhzB-j9KA" width="100%">
   </a>
 </p>
 
