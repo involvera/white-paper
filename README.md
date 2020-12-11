@@ -1,4 +1,10 @@
-Written by @fantasim - siuol@gmx.com
+<p align="center" font-style="italic" >
+  <a>
+    <img alt="acey" src="https://siasky.net/IACDbMnNr5lPk5UXfHgeknoCe4nQboP8CQIAEHrTpDCBdA" width="100%">
+  </a>
+</p>
+
+> ### A community platform hierarchizing members with decentralized governance based on a liquid economy.
 
 <br />
 
@@ -41,7 +47,7 @@ They are all people with a belief in the sustainability of the entity over time.
 **Born, Live, Climax.**
 
 * A community comes to life when two or more individuals focus their energy on moving towards a **common direction**.
-* To prosper, a community must include [**an economy**](#economy-and-its-philosophy) to **herarchize** its **members**. This allows the members to be **proportionally rewarded** to the quality of the information they share with the other ones.
+* To prosper, a community must include [**an economy**](#economy-and-its-philosophy) to **herarchize** its **members** to the quality of the information they share with the other ones.
 * To thrive, a community must **include** members **actively working** to make real the ideas exchanged within the group.
 
 A good information is qualified as such by the energy *(roughly: time * effort)* required for its design.
@@ -73,7 +79,7 @@ A community needs a **fair** system to be **sustainable**:
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/PADwiGZL39W4eWgx3BHGSGhHSKoCTAtK8TfuH4eiDpzTJg" width="100%">
+    <img src="https://siasky.net/zAA_bthmsEslMP7sT9R8n3X-D-porQCAWsxkg4oSyx2FbQ" width="100%">
   </a>
 Example of an activity adjustment on the community.
 </p>
@@ -105,7 +111,7 @@ The `Thread` represents the primary means of exchange of members of the communit
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/vAKQ9tBeZDFGq9LduiWAriGZqvuNd-W0kWolHNU5nukehw" width="100%">
+    <img src="https://siasky.net/HAEwtDNPUhEYwzDFUPXC2-GllFr5YM4-4Hk1Gbm3bRi8ZQ" width="100%">
   </a>
 Example of a few different thread formats.
 </p>
@@ -159,10 +165,15 @@ It can be:
 
 A proposal to **change** the **content** creation functions' **fixed costs**
 
+### A Constitution Proposal:
+
+A proposal to update the constitution (set of the rules) of the community.
+
 ### An Application Proposal:
 
 A proposal to **develop** the **community's subject**.
 e.g: Proposition to add/update/remove a feature on an open source software
+
 
 <br />
 
@@ -194,7 +205,7 @@ However, community members can **open a thread to share opinions** about it. The
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/_ABHXTqmIf3qQIB2wIIVuelLDz2CGSAtUPWrMjhzB-j9KA" width="100%">
+    <img src="https://siasky.net/BADweHmJ9HhlE18o9KTp485z_utSnlriBwCWzlOJjJ0rwQ" width="70%">
   </a>
 </p>
 
@@ -241,7 +252,7 @@ About the currency:
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/7ADDQAj9cccPu6Awkilsh4jQocNOYrlkUnng14Y7V1RBXA" width="100%">
+    <img src="https://siasky.net/KACeD-90D3v7RkLS0EvvecnftcGu7ngAZm24m6c1H_baqw" width="100%">
   </a>
 Social coin overview
 </p>
@@ -281,7 +292,7 @@ Its score increases with each new reaction or upvote it gets, according to 2 cri
 #### Example: Thread's Score calculation system
 
 <p align="center">
-    <img src="https://siasky.net/vAGsmcVbtnioLqxPBWEhVPrG8lv9F_ookJL2V0zBgMt2nA" width="100%">
+    <img src="https://siasky.net/XAFleThI4yv71-_5ul2O4mAOdbne0eIb_HLpLROUMIcWiA" width="100%">
 </p>
 
 <br />
@@ -289,7 +300,7 @@ Its score increases with each new reaction or upvote it gets, according to 2 cri
 #### Example: Thread's reward calculation system
 
 <p align="center">
-    <img src="https://siasky.net/XABG_aB2-vNhRI-GHbEyc3yqQH7awL4ZwMyVxIEC75jmdw" width="100%">
+    <img src="https://siasky.net/nACSqT3iIjxLl8CBMksI3_5q_IawQeM3pPNehAT1IhllzA" width="100%">
 </p>
 
 <br />
@@ -323,7 +334,7 @@ Example: Someone who receives 200 coins as content creation rewards will also re
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/7ACpRLw5bpS6rRJ8KSFoJy3ijXQm1hNYwN8CRk3lUJqPXA" width="100%">
+    <img src="https://siasky.net/KACFcz97hVqI-i3ZKokMhYXmyChiHgaaRlEXvBOSHq1ZlA" width="100%">
   </a>
 Reputation overview
 </p>
@@ -367,3 +378,5 @@ To summarize:
 <br />
 
 <br />
+
+Written by @fantasim - siuol@gmx.com
