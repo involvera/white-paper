@@ -239,14 +239,14 @@ Eventually, the currency will be a **decentralized cryptocurrency** on a **peer-
 </p>
 
 About the currency:
-  - It is **ephemeral** and has a **full life cycle** of **1,459 days** (4 years).
-    - For example, the coins generated on day 0 of the cycle will **gradually depreciate** each day **by 1/1,459** of their value **until day 1,459**. They will then no longer have any value and will therefore no longer be exchangeable (removed from the economy).
+  - It is **ephemeral** and has a **full life cycle** of **486.3 days** (16 months).
+    - For example, the coins generated on hour 0 will **gradually depreciate** each 8 hours **by 1/1,459** of their value **until day 486**. They will then no longer have any value and will therefore no longer be exchangeable (removed from the economy).
   
   - Each coin will be divisible into **100 million fragments** (like Bitcoin).
   
-  - The economy generates **100,000 new coins** every day at 2 AM (UTC) and then are redistributed to the community's members.
+  - The economy generates **100,000 new coins** every 8 hours and then are redistributed to the community's members.
     - **100%** of the coins generated are **redistributed to the community** in Involvera v1.0. 
-    - Eventually when the currency becomes decentralized this percentage will decrease to about 70%, as a compensation of 30% will be given to the miners securing the network.
+    - Eventually when the currency becomes decentralized this percentage will decrease to compensate the validators securing the network.
 
 <br />
 
@@ -265,9 +265,9 @@ Social coin overview
     <img src="https://siasky.net/CADgusE7xf0mfvgZmwozbK-XyJHJYTNjCxxmgm0D7MoQHQ" width="100%">
 </p>
 
-The circulating supply will take 1,459 days before being equal to the **total fixed supply** of the economy and will then remain infinitely constant to the number of **73,000,000** coins. `((100,000 / 1459) * ((1459 * 1460) / 2))`
+The circulating supply will take 486.3 days before being equal to the **total fixed supply** of the economy and will then remain infinitely constant to the number of **73,000,000** coins. `((100,000 / 1459) * ((1459 * 1460) / 2))`
 
-So as the currency is cyclical, from the 4th year (when the currency will have completed its first full cycle), the number of coins in circulation will be infinitely constant at this number.
+So as the currency is cyclical, from the 486th dayr (when the currency will have completed its first full cycle), the number of coins in circulation will be infinitely constant at this number.
 
 <br />
 
@@ -313,9 +313,9 @@ Its score increases with each new reaction or upvote it gets, according to 2 cri
 
 Reputation is a **non-tradable value**, indexed on the social coins distributed by the system every day, as a reward for content creation.
 
-It helps to **evaluate the importance** of a member and **its** total **contribution** within the system over **the last four years**. The reputation is ephemeral like the social coins, but **it expires suddenly** and not gradually unlike it.
+It helps to **evaluate the importance** of a member and **its** total **contribution** within the system over **the last 486 days**. The reputation is ephemeral like the social coins, but **it expires suddenly** and not gradually like it.
 
-Its circulating supply is equal to the number of coins distributed by the system to members during the last 1459 days.
+Its circulating supply is equal to the number of coins distributed by the system to members during the last 486 days.
 
 It **influences** Involvera’s algorithms:
 - In **scoring content**
@@ -329,7 +329,7 @@ Reputation is useful to:
 - Determine the value of a proposal vote, proportional to the member’s reputation.
   - Thus making it possible to **remove any public offer of social coin purchase** by a group of individuals **to take power** over the outcome of a proposal, in the case of a voting value proportional to the number of social coins held. This would have led to possible manipulation of the power of the community by external financial means.
 
-It is distributed at 02:00 UTC to members of the community at the same time as the distribution of social coins by Involvera algorithms.
+It is distributed every 8 hours to members of the community, (same time than the distribution of social coins)
 Example: Someone who receives 200 coins as content creation rewards will also receive 200 reputation points.
 
 <p align="center">
@@ -359,7 +359,7 @@ Adapting an inflationary economy (like all modern economies) to this system woul
 
 The ephemeral economy providing **a life** and **a death** cycle of **the currency**, perfectly meets the needs of a system aiming to optimize its growth and productivity speed by several points:
 
-- The first, the most important and least palpable, is that the currency is perishable, and whatever happens, **the currency** in circulation today **will** eventually **disappear** on its expiry date; this makes possible to reduce a cognitive aspect of human that have a very little interest in a collective context: ***the fear of individual lack***. The conception of an economy like this will cause the suppression of this bias since the economic future is certain. Thus, **there will be no interest in storing** what has been previously accumulated.
+- The first, the most important and least palpable, is that the conception of such an economy, will cause the suppression of the fear of lack since the economic future is certain. Thus, **there will be no interest in storing** what has been previously accumulated.
 
 - People working to obtain money know that they have a **limited time** to make **use** of **it**. They will have only two choices:
   - Use their coins to **pay for the features they need**, and if monetary surplus **redistribute** them into the economy **to support new ideas**. (e.g: Reaction / Upvotes)
