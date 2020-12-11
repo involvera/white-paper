@@ -138,8 +138,8 @@ Example of a few different thread formats.
 
 **Cost**: There are three different ones, each having more consequent values than the others:
 - ⭐ (**12%** of the thread's fixed cost)
-- 🧠 (**50%** of the thread's fixed cost)
-- 💥 (**200%** of the thread's fixed cost)
+- 💫 (**50%** of the thread's fixed cost)
+- ✨ (**200%** of the thread's fixed cost)
 
 *How the coins are spent?*
 - 70% goes into the thread creator's wallet.
