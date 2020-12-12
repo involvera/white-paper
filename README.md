@@ -203,7 +203,7 @@ However, community members can **open a thread to share opinions** about it. The
 
 #### Example of an Economical Proposal.
 
-<p align="center">
+<p>
   <a>
     <img src="https://siasky.net/BADweHmJ9HhlE18o9KTp485z_utSnlriBwCWzlOJjJ0rwQ" width="70%">
   </a>
