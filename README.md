@@ -145,7 +145,7 @@ Example of a few different thread formats.
 - 70% goes into the thread creator's wallet.
 - 30% is burnt. (destroyed by the system)
 
-**Example**: If a thread costs 100 coins to be performed, the 🧠's reaction will cost 50 coins. (35 in the thread author's wallet, 15 are burnt)
+**Example**: If a thread costs 100 coins to be performed, the 💫 's reaction will cost 50 coins. (35 in the thread author's wallet, 15 are burnt)
 
 <br />
 
