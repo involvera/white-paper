@@ -34,7 +34,7 @@
 
 The community includes all the people **participating** directly or indirectly in the **entity's development** of what the community is gathered for.
 
-They are all people with a belief in the sustainability of the entity over time. Depending on their level of motivation, a community **member** can **range** from a **simple fan** to a **full-time worker** on the project's development.
+They are all people with a belief in the sustainability of the entity over time. Depending on their level of motivation, a community **member** can **range** from a **simple fan** to a **full-time worker** on the community's purposes.
 
 <br />
 
@@ -65,9 +65,9 @@ So, an influential individual within the community stands out from a so-called a
 A community needs a **fair** system to be **sustainable**:
 - Open, where **everyone** have the ability to **commit** in the entity's evolution.
 
-- Where contributors are **valued** according to the **relevance** they bring to the project's development.
+- Where contributors are **valued** according to the **relevance** they bring to the community's development.
 
-- Where any direction took by the project is subject to a **general referendum** ([**Proposal**](#proposal))
+- Where any direction took by the community is subject to a **general referendum** ([**Proposal**](#proposal))
   - Where the **value** of a member's vote is **proportional** to their [**Reputation**](#reputation) in the community.
 
 - Where the creation of information ([**Thread**](#thread)) has **a cost** and **is rewardable**:
@@ -365,7 +365,7 @@ The ephemeral economy providing **a life** and **a death** cycle of **the curren
   - Use their coins to **pay for the features they need**, and if monetary surplus **redistribute** them into the economy **to support new ideas**. (e.g: Reaction / Upvotes)
   - **Exchange** their coins **with other members** to allow them to pay for the features, or to **help new people** to integrate the community.
 
-- Since long-term currency storage is not possible, this will **reset the chances** with each complete **currency cycle**. The meritocracy will be absolute; the richest will be the **most deserving**, the most invested, the one able to make the best choices for the project's sustainability. Therefore, the richest will be entirely **legitimate** and **recognized** by the entire community. Their status, supported by the evidence of their investment, will be **traceable** and **visible** to the whole community.
+- Since long-term currency storage is not possible, this will **reset the chances** with each complete **currency cycle**. The meritocracy will be absolute; the richest will be the **most deserving**, the most invested, the one able to make the best choices for the community's sustainability. Therefore, the richest will be entirely **legitimate** and **recognized** by the entire community. Their status, supported by the evidence of their investment, will be **traceable** and **visible** to the whole community.
 
 <br />
 
