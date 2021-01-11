@@ -4,22 +4,21 @@
   </a>
 </p>
 
-> ### A community platform hierarchizing members with decentralized governance based on a liquid economy.
+> ### We provide the tool that communities need to develop and manage themselves without a central authority.
 
 <br />
 
 
 ## General table of content
-* [1. Introduction](#introduction)
-* [2. Genesis](#genesis)
-* [3. Organization](#organization)
-* [4. Communication](#communication)
-* [5. Economy](#economy-and-its-philosophy)
-* [5.1 Currency](#currency)
-* [5.2 Supply](#supply)
-* [5.3 Distribution](#distribution)
-* [5.4 Reputation](#reputation)
-* [5.5 Philosophy](#technical-philosophy)
+* [1. Genesis](#genesis)
+* [2. Organization](#organization)
+* [3. Communication](#communication)
+* [4. Economy](#economy)
+* [4.1 Currency](#currency)
+* [4.2 Supply](#supply)
+* [4.3 Distribution](#distribution)
+* [4.4 Reputation](#reputation)
+* [4.5 Philosophy](#philosophy)
 
 
 <br />
@@ -27,16 +26,6 @@
 <br />
 
 
-
-
-
-# Introduction
-
-The community includes all the people **participating** directly or indirectly in the **entity's development** of what the community is gathered for.
-
-They are all people with a belief in the sustainability of the entity over time. Depending on their level of motivation, a community **member** can **range** from a **simple fan** to a **full-time worker** on the community's purposes.
-
-<br />
 
 # Genesis
 
@@ -47,12 +36,12 @@ They are all people with a belief in the sustainability of the entity over time.
 **Born, Live, Climax.**
 
 * A community comes to life when two or more individuals focus their energy on moving towards a **common direction**.
-* To prosper, a community must include [**an economy**](#economy-and-its-philosophy) to **herarchize** its **members** to the quality of the information they share with the other ones.
+* To prosper, a community must include [**an economy**](#economy-and-its-philosophy) to **hierarchize** its **members** to the quality they share with the other ones.
 * To thrive, a community must **include** members **actively working** to make real the ideas exchanged within the group.
 
-A good information is qualified as such by the energy *(roughly: time * effort)* required for its design.
+A good contribution is qualified as such by the energy *(roughly: time * effort)* required for its design.
 
-So, an influential individual within the community stands out from a so-called average individual, by the quality of the information they share. Thus, as in any group, the most motivated will be the most hard-working, and therefore the most recognized as a community's figure.
+So, an influential individual within the community stands out from a so-called average individual, by the quality of the contributions they do. Thus, as in any group, the most motivated will be the most hard-working, and therefore the most recognized as a community's figure.
 
 <br />
 
@@ -81,7 +70,7 @@ A community needs a **fair** system to be **sustainable**:
   <a>
     <img src="https://siasky.net/zAA_bthmsEslMP7sT9R8n3X-D-porQCAWsxkg4oSyx2FbQ" width="100%">
   </a>
-Example of an activity adjustment on the community.
+Example of activity adjustement through an Economical Proposal.
 </p>
 
 <br />
@@ -224,13 +213,10 @@ There are 2 types of vote: **Favorable** and, **Unfavorable**.
 
 <br />
 
-# Economy (and its Philosophy)
+# Economy
 
-In version 1.0 of Involvera, **the currency** that governs the community's social laws is centralized for **speed of implementation** and **security** reasons. 
-
-Eventually, the currency will be a **decentralized cryptocurrency** on a **peer-to-peer server** storing its transaction history on **its blockchain** and using **its laws**.
-
-<br />
+The economy is the backbone of an Involvera community.
+It is the neutral and decentralized authority crystallizing how a community must move to continue its development.
 
 ## Currency
 
@@ -238,15 +224,18 @@ Eventually, the currency will be a **decentralized cryptocurrency** on a **peer-
     <img src="https://siasky.net/CADCBJAy5WRa8TFzObir4WrPowO4-zGWRYGGqH6Vm_k3xA" width="100%">
 </p>
 
-About the currency:
-  - It is **ephemeral** and has a **full life cycle** of **486.3 days** (16 months).
-    - For example, the coins generated on hour 0 will **gradually depreciate** each 8 hours **by 1/1,459** of their value **until day 486**. They will then no longer have any value and will therefore no longer be exchangeable (removed from the economy).
-  
-  - Each coin will be divisible into **100 million fragments** (like Bitcoin).
-  
-  - The economy generates **100,000 new coins** every 8 hours and then are redistributed to the community's members.
-    - **100%** of the coins generated are **redistributed to the community** in Involvera v1.0. 
-    - Eventually when the currency becomes decentralized this percentage will decrease to compensate the validators securing the network.
+The economy of each community is based on its unique currency.
+The economy is **cyclical** (1) and **expiring** (2), which means that:
+1. The number of coins added to the economy each day is **constant** and **never stops**.
+2. Coins have a **programmed expiration** date when minted. They therefore **gradually lose** value until the day of their complete expiration when they are therefore no longer worth anything and is no longer exchangeable.
+
+[Why an expiring currency ?](#philosophy)
+
+The self-regeneration cycle of a community's currency is carried out over **486.3 days** or **1459 Lughs** (Lugh: transaction adding **100,000 new coins** to the economy occurring **every 8 hours**). When a Lugh transaction is broadcasted, the value of all the circulating coins decrease by 1/1459 their value.
+
+Each piece is divisible into 100 millions fragments.
+
+As long as the coin mining mechanism is not decentralized yet, 100% of the coins added to the economy during each LUGH will be distributed to community participation members after the previous LUGH. (Last 8 hours)
 
 <br />
 
@@ -256,18 +245,6 @@ About the currency:
   </a>
 Social coin overview
 </p>
-
-<br />
-
-## Supply
-
-<p align="center">
-    <img src="https://siasky.net/CADgusE7xf0mfvgZmwozbK-XyJHJYTNjCxxmgm0D7MoQHQ" width="100%">
-</p>
-
-The circulating supply will take 486.3 days before being equal to the **total fixed supply** of the economy and will then remain infinitely constant to the number of **73,000,000** coins. `((100,000 / 1459) * ((1459 * 1460) / 2))`
-
-So as the currency is cyclical, from the 486th dayr (when the currency will have completed its first full cycle), the number of coins in circulation will be infinitely constant at this number.
 
 <br />
 
@@ -343,7 +320,7 @@ Reputation overview
 
 <br />
 
-## Technical Philosophy
+## Philosophy
 
 <p align="center">
     <img src="https://siasky.net/CAAtI6EpbNvD-wFrv5GNgoj_zagN359lwQ7WDrif8ekz0w" width="100%">
@@ -377,6 +354,4 @@ To summarize:
 
 <br />
 
-<br />
 
-Written by @fantasim - siuol@gmx.com
