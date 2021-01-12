@@ -17,7 +17,7 @@
 * [4.1 Currency](#currency)
 * [4.2 Supply](#supply)
 * [4.3 Distribution](#distribution)
-* [4.4 Reputation](#reputation)
+* [4.4 Vote Power](#vote-power)
 * [4.5 Philosophy](#philosophy)
 
 
@@ -57,7 +57,7 @@ A community needs a **fair** system to be **sustainable**:
 - Where contributors are **valued** according to the **relevance** they bring to the community's development.
 
 - Where any direction took by the community is subject to a **general referendum** ([**Proposal**](#proposal))
-  - Where the **value** of a member's vote is **proportional** to their [**Reputation**](#reputation) in the community.
+  - Where the **value** of a member's vote is **proportional** to their [**Vote Power**](#vote-power) in the community.
 
 - Where the creation of information ([**Thread**](#thread)) has **a cost** and **is rewardable**:
   - So the creation of information is **engaging** for the contributor and the **emission cost enhance** each member but also **dissuade** any harmful behavior (ex: spam, creators of trouble, stowaways, Sybil attacks). Writing to the community is a **risk-taking** that is rewarded with a **benefit** in positive feedback from the members or **a monetary loss** if negative feedback or lack of interest.
@@ -183,7 +183,7 @@ However, community members can **open a thread to share opinions** about it. The
 
 **Proposal rules**:
 - If a proposal has **not reached a majority** of votes in favor of the allowed time, it is **canceled**.
-- A proposal ends when the **time limit exceeded** or if **50% + 1** of the **total [reputation](#reputation)** is attached to a voting camp.
+- A proposal ends when the **time limit exceeded** or if **50% + 1** of the **total [Vote Power](#vote-power)** amount in the community is attached to a voting camp.
 - If a proposal ends in time, the type of vote with the highest value vote wins.
 - If the majority is **abstentionist**, the **second-largest** voting camp wins.
 - If there is perfect equality between favorable and unfavorable, the proposal is canceled. The **unfavorable camp** always has **the advantage**.
@@ -204,8 +204,8 @@ However, community members can **open a thread to share opinions** about it. The
 
 ##### VOTE
 
-**What**: A proposal is dealt with by the vote of community members who have a reputation amount greater than 0.
-The value of a vote is proportional to its creator's [**Reputation**](#reputation).
+**What**: A proposal is dealt with by the vote of community members who have a Vote Power amount greater than 0.
+The value of a vote is proportional to its creator's [**Vote power**](#vote-power).
 
 **Cost**: Free in Involvera V1.
 
@@ -297,30 +297,30 @@ Two factors determine the amount added to the thread's score during a reaction/u
 
 Vote Power is a **non-tradable value**, indexed on the social coins distributed by the system every day, as a reward for content creation.
 
-It helps to **evaluate the importance** of a member and **its** total **contribution** within the system over **the last 486 days**. The reputation is ephemeral like the social coins, but **it expires suddenly** and not gradually like it.
+It helps to **evaluate the importance** of a member and **its** total **contribution** within the system over **the last 486 days**. The vote power expires like the social coins, but **it expires suddenly** and not gradually like it.
 
 Its circulating supply is equal to the number of coins distributed by the system to members during the last 486 days.
 
 It **influences** Involvera’s algorithms:
 - In **scoring content**
-  - Content that has an impact on high-reputation members will score better than content that has an impact but on low-reputation members.
+  - Content that has an impact on reputed members will score better than content that has an impact but on low-vote-power members.
 - In determining the value of **a proposal vote**
-  - A Proposal's vote has the value of the reputation's issuer.
+  - A Proposal's vote has the value of the vote power's issuer.
 
-Reputation is useful to:
+Vote Power is useful to:
 - Create a **justice system**.
   - A person with more **seniority** in a community will have **more influence** on decisions **than a young member**, who will have offered **less time** and **energy**.
-- Determine the value of a proposal vote, proportional to the member’s reputation.
+- Determine the value of a proposal vote, proportional to the member’s vote power.
   - Thus making it possible to **remove any public offer of social coin purchase** by a group of individuals **to take power** over the outcome of a proposal, in the case of a voting value proportional to the number of social coins held. This would have led to possible manipulation of the power of the community by external financial means.
 
-It is distributed every 8 hours to members of the community, (same time than the distribution of social coins)
-Example: Someone who receives 200 coins as content creation rewards will also receive 200 reputation points.
+It is distributed every 8 hours to members of the community, in the same time than the Lugh transaction.
+Example: Someone who receives 200 coins as content creation rewards will also receive 200 vote power points.
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/KACFcz97hVqI-i3ZKokMhYXmyChiHgaaRlEXvBOSHq1ZlA" width="100%">
+    <img src="https://siasky.net/OABUVQ5Tm-uYnxyaLCxyXXKcRCgRHqKHS8I1j529w7sRcQ" width="100%">
   </a>
-Reputation overview
+Vote Power overview
 </p>
 
 <br />
