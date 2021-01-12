@@ -44,6 +44,10 @@ So, an influential individual within the community stands out from a so-called a
 
 <br />
 
+<br />
+
+<br />
+
 # Organization
 
 <p align="center">
@@ -74,6 +78,13 @@ Example of activity adjustement through an Economical Proposal.
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
+
 
 # Communication
 
@@ -103,6 +114,11 @@ The `Thread` represents the primary means of exchange of members of the communit
   </a>
 Example of a few different thread formats.
 </p>
+
+<br />
+
+<br />
+
 
 ### Features
 
@@ -136,6 +152,9 @@ Example of a few different thread formats.
 **Example**: If a thread costs 100 coins to be performed, the 💫 's reaction will cost 50 coins. (15 in the thread author's wallet, 35 are burnt)
 
 <br />
+
+<br />
+
 
 ## Proposal
 
@@ -212,6 +231,13 @@ There are 2 types of vote: **Favorable** and, **Unfavorable**.
 
 <br />
 
+<br />
+
+<br />
+
+<br />
+
+
 # Economy
 
 The economy is the backbone of an Involvera community.
@@ -253,6 +279,8 @@ Overview
 
 <br />
 
+<br />
+
 ## Distribution
 
 <p align="center">
@@ -288,6 +316,8 @@ Two factors determine the amount added to the thread's score during a reaction/u
 
 <br />
 
+<br />
+
 ## Vote Power
 
 <p align="center">
@@ -315,12 +345,17 @@ Vote Power is useful to:
 It is distributed every 8 hours to members of the community, in the same time than the Lugh transaction.
 Example: Someone who receives 200 coins as content creation rewards will also receive 200 vote power points.
 
+
+<br />
+
 <p align="center">
   <a>
     <img src="https://siasky.net/OABUVQ5Tm-uYnxyaLCxyXXKcRCgRHqKHS8I1j529w7sRcQ" width="100%">
   </a>
 Vote Power overview
 </p>
+
+<br />
 
 <br />
 
