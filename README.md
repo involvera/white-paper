@@ -218,32 +218,35 @@ There are 2 types of vote: **Favorable** and, **Unfavorable**.
 The economy is the backbone of an Involvera community.
 It is the neutral and decentralized authority crystallizing how a community must move to continue its development.
 
+<br />
+
 ## Currency
 
 <p align="center">
     <img src="https://siasky.net/CADCBJAy5WRa8TFzObir4WrPowO4-zGWRYGGqH6Vm_k3xA" width="100%">
 </p>
 
-The economy of each community is based on its unique currency.
-The economy is **cyclical** (1) and **expiring** (2), which means that:
-1. The number of coins added to the economy each day is **constant** and **never stops**.
+The economy of each community is based on its **unique currency**.
+
+The economy is **cyclical** (1) and **expiring** (2):
+1. The number of coins added to the economy every day is **constant**, **regular** and **never stops**.
 2. Coins have a **programmed expiration** date when minted. They therefore **gradually lose** value until the day of their complete expiration when they are therefore no longer worth anything and is no longer exchangeable.
 
-[Why an expiring currency ?](#philosophy)
+The self-regeneration cycle of a community's currency is carried out over **486.3 days** or **1459 Lugh transactions**.
 
-The self-regeneration cycle of a community's currency is carried out over **486.3 days** or **1459 Lughs** (Lugh: transaction adding **100,000 new coins** to the economy occurring **every 8 hours**). When a Lugh transaction is broadcasted, the value of all the circulating coins decrease by 1/1459 their value.
+<br />
 
-Each piece is divisible into 100 millions fragments.
-
-As long as the coin mining mechanism is not decentralized yet, 100% of the coins added to the economy during each LUGH will be distributed to community participation members after the previous LUGH. (Last 8 hours)
+### Lugh
+A Lugh is a transaction adding **100,000 new coins** to the economy occurring **every 8 hours** forever. 
+When a Lugh transaction is broadcasted, the value of all the circulating coins decrease by 1/1459 their value.
 
 <br />
 
 <p align="center">
   <a>
-    <img src="https://siasky.net/KACeD-90D3v7RkLS0EvvecnftcGu7ngAZm24m6c1H_baqw" width="100%">
+    <img src="https://siasky.net/MACe2mzXgIgN85ngRtyOJ5eVwKFas3h2fc3ruM9_K74aNA" width="100%">
   </a>
-Social coin overview
+Overview
 </p>
 
 <br />
@@ -263,6 +266,12 @@ Its score increases with each new reaction or upvote it gets, according to 2 cri
 - The price paid for each reaction/upvote by other members on this thread.
 
 -  Only upvotes and reactions paid with never used coins, otherwise known as **first-spent coins**, are counted. This system **prevents** artificial score swelling
+
+
+____
+
+As long as the coin mining mechanism is not decentralized yet, 100% of the coins added to the economy during each LUGH will be distributed to community participation members after the previous LUGH. (Last 8 hours)
+
 
 <br />
 
