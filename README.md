@@ -15,10 +15,9 @@
 * [3. Communication](#communication)
 * [4. Economy](#economy)
 * [4.1 Currency](#currency)
-* [4.2 Supply](#supply)
-* [4.3 Distribution](#distribution)
-* [4.4 Vote Power](#vote-power)
-* [4.5 Philosophy](#philosophy)
+* [4.2 Distribution](#distribution)
+* [4.3 Vote Power](#vote-power)
+* [5. Philosophy](#philosophy)
 
 
 <br />
@@ -297,9 +296,9 @@ Two factors determine the amount added to the thread's score during a reaction/u
 
 Vote Power is a **non-tradable value**, indexed on the social coins distributed by the system every day, as a reward for content creation.
 
-It helps to **evaluate the importance** of a member and **its** total **contribution** within the system over **the last 486 days**. The vote power expires like the social coins, but **it expires suddenly** and not gradually like it.
+It helps to **evaluate the importance** of a member and **its** total **contribution** within the system over **the last 486.3 days (1459 Lughs)**. The vote power expires like the social coins, but **it expires suddenly** and not gradually like it.
 
-Its circulating supply is equal to the number of coins distributed by the system to members during the last 486 days.
+Its circulating supply is equal to the number of coins distributed by the system to members during the last complete economy cycle.
 
 It **influences** Involvera’s algorithms:
 - In **scoring content**
@@ -327,7 +326,9 @@ Vote Power overview
 
 <br />
 
-## Philosophy
+<br />
+
+# Philosophy
 
 <p align="center">
     <img src="https://siasky.net/CAAtI6EpbNvD-wFrv5GNgoj_zagN359lwQ7WDrif8ekz0w" width="100%">
@@ -337,19 +338,19 @@ Vote Power overview
 
 Understanding the process of creating and adopting information is too complex to be defined, but using this simple reasoning, we can conclude that one information **enables the creation** of other information(s). So it **represents** an **infinite chain** of ideas that bases the development of any entity.
 
-**No link is more important** in a chain than the others; they are **all united** and **interdependent**. It means that a today’s fertile information can't inherently have more or less value than a yesterday's or tomorrow's information.
+**No link is more important** in a chain than the others; they are **all united** and **interdependent**. It means that a today’s fertile information can't inherently have more or less value than a yesterday's or tomorrow's fertile information.
 
 Adapting an inflationary economy (like all modern economies) to this system would lead to deep inequalities and, therefore, social conflicts taking origin from a different valuation of past, present, and future.
 
-The ephemeral economy providing **a life** and **a death** cycle of **the currency**, perfectly meets the needs of a system aiming to optimize its growth and productivity speed by several points:
+The expiring economy providing **a life** and **a death** cycle of **the currency**, and perfectly meets the needs of a system aiming to optimize its growth and productivity speed by several points:
 
 - The first, the most important and least palpable, is that the conception of such an economy, will cause the suppression of the fear of lack since the economic future is certain. Thus, **there will be no interest in storing** what has been previously accumulated.
 
 - People working to obtain money know that they have a **limited time** to make **use** of **it**. They will have only two choices:
-  - Use their coins to **pay for the features they need**, and if monetary surplus **redistribute** them into the economy **to support new ideas**. (e.g: Reaction / Upvotes)
-  - **Exchange** their coins **with other members** to allow them to pay for the features, or to **help new people** to integrate the community.
+  - Use their spending power to **use the features they need**, and if monetary surplus **redistribute** it into the economy **to support new ideas**. (e.g: Reaction / Upvotes)
+  - **Exchange** their coins **with other members** against external assets to allow them to pay for the features, or to **help new people** to integrate the community.
 
-- Since long-term currency storage is not possible, this will **reset the chances** with each complete **currency cycle**. The meritocracy will be absolute; the richest will be the **most deserving**, the most invested, the one able to make the best choices for the community's sustainability. Therefore, the richest will be entirely **legitimate** and **recognized** by the entire community. Their status, supported by the evidence of their investment, will be **traceable** and **visible** to the whole community.
+- Since long-term currency storage is not possible, this will **reset the chances** with each complete **currency cycle**. The meritocracy will be absolute; the richest will be the **most deserving**, the most invested, the one able to make the best choices for the community's sustainability. Therefore, the richest will be entirely **legitimate** and **recognized** by the entire community. Their status, supported by the evidence of their investment , will be **traceable** and **transparent** to the whole community.
 
 <br />
 
@@ -357,7 +358,7 @@ To summarize:
 * High inequalities do not exist since large currency reserves are impossible.
 * There can be no storage of money and therefore, no energy waste.
 * The redistribution of opportunities is then at its maximum level of exploitation.
-* Quality of investment is then defined by what it proposes for the entity and its community, and not for personal interests.
+* Quality of investment is then defined by what it provides for the entity and its community, and not for personal interests.
 
 <br />
 
