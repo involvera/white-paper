@@ -114,10 +114,10 @@ Example of a few different thread formats.
 **Cost**: (**3%** of the thread's fixed cost)
 
 *How the coins are spent?*
-- 70% goes into the thread creator's wallet.
-- 30% is burnt. (destroyed by the system)
+- 30% goes into the thread creator's wallet.
+- 70% is burnt. (destroyed by the system)
 
-**Example**: If a thread costs 100 coins to be performed, the upvote will cost 3 coins. (2.1 in the thread author's wallet, 0.9 is burnt)
+**Example**: If a thread costs 100 coins to be performed, the upvote will cost 3 coins. (0.9 in the thread author's wallet, 2.1 is burnt)
 
 <br />
 
@@ -131,10 +131,10 @@ Example of a few different thread formats.
 - ✨ (**200%** of the thread's fixed cost)
 
 *How the coins are spent?*
-- 70% goes into the thread creator's wallet.
-- 30% is burnt. (destroyed by the system)
+- 30% goes into the thread creator's wallet.
+- 70% is burnt. (destroyed by the system)
 
-**Example**: If a thread costs 100 coins to be performed, the 💫 's reaction will cost 50 coins. (35 in the thread author's wallet, 15 are burnt)
+**Example**: If a thread costs 100 coins to be performed, the 💫 's reaction will cost 50 coins. (15 in the thread author's wallet, 35 are burnt)
 
 <br />
 
@@ -242,6 +242,9 @@ When a Lugh transaction is broadcasted, the value of all the circulating coins d
 
 <br />
 
+
+<br />
+
 <p align="center">
   <a>
     <img src="https://siasky.net/MACe2mzXgIgN85ngRtyOJ5eVwKFas3h2fc3ruM9_K74aNA" width="100%">
@@ -257,29 +260,24 @@ Overview
     <img src="https://siasky.net/CADYIbmbDTxmtkxRFpAc8r68RRafObcdM7mpr4-n8hP2GQ" width="100%">
 </p>
 
-### Based on the Threads activity
-
-Every published thread starts with a score of 0.
-
-Its score increases with each new reaction or upvote it gets, according to 2 criterias:
-
-- The price paid for each reaction/upvote by other members on this thread.
-
--  Only upvotes and reactions paid with never used coins, otherwise known as **first-spent coins**, are counted. This system **prevents** artificial score swelling
-
-
-____
-
-As long as the coin mining mechanism is not decentralized yet, 100% of the coins added to the economy during each LUGH will be distributed to community participation members after the previous LUGH. (Last 8 hours)
-
+The 100,000 new coins added to the economy through LUGH transactions are algorithmically distributed to members of that economy according to their participation over the last 8 hours (between the previous LUGH and the current one).
 
 <br />
 
-#### Example: Thread's Score calculation system
+### Based on the Threads activity
+
+A thread posted to the community starts with a 0 score and increases when it gets a reaction or upvote from another user.
+Two factors determine the amount added to the thread's score during a reaction/upvote:
+1. The price of the reaction/upvote
+2. The power vote amount of whoever reacts to the Thread.
+
+<br />
 
 <p align="center">
-    <img src="https://siasky.net/XAFleThI4yv71-_5ul2O4mAOdbne0eIb_HLpLROUMIcWiA" width="100%">
+    <img src="https://siasky.net/PABD8lO1z_msriU_9jKvUlRn5tE66QdITEowHGH0MXNaGQ" width="70%">
 </p>
+
+*As long as the coin mining mechanism is not decentralized yet, 100% of the coins added to the economy during each LUGH will be distributed to community participation members after the previous LUGH. (last 8 hours)*
 
 <br />
 
@@ -291,13 +289,13 @@ As long as the coin mining mechanism is not decentralized yet, 100% of the coins
 
 <br />
 
-## Reputation
+## Vote Power
 
 <p align="center">
     <img src="https://siasky.net/CADwzfTcMHsAFYA6G6wtPswJxOLt6-BFzLvU_oeIP4qTxg" width="100%">
 </p>
 
-Reputation is a **non-tradable value**, indexed on the social coins distributed by the system every day, as a reward for content creation.
+Vote Power is a **non-tradable value**, indexed on the social coins distributed by the system every day, as a reward for content creation.
 
 It helps to **evaluate the importance** of a member and **its** total **contribution** within the system over **the last 486 days**. The reputation is ephemeral like the social coins, but **it expires suddenly** and not gradually like it.
 
